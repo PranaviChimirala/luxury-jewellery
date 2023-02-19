@@ -6,7 +6,7 @@
     --header-height: 3rem;
 
     /*========== Colors ==========*/
-    --first-color: #0033cc;
+    --first-color: #2b2024;
     --first-color-alt: #0039e6;
     --title-color: #003300;
     --text-color: #666699;
@@ -15,7 +15,7 @@
     --container-color: #ffdd99;
 
     /*========== Font and typography ==========*/
-    --body-font: 'Poppins', sans-serif;
+    --body-font: 'Old Standard TT';
     --biggest-font-size: 2.25rem;
     --h1-font-size: 1.5rem;
     --h2-font-size: 1.25rem;
